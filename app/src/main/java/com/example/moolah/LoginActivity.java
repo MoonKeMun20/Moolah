@@ -41,7 +41,7 @@ public class LoginActivity extends AppCompatActivity {
         //the main activity
         if(SharedPrefManager.getInstance(this).isLoggedIn()){
             finish();
-            startActivity(new Intent(this,MainActivity.class));
+            startActivity(new Intent(this,HomepageActivity.class));
             return;
         }
 

@@ -4,13 +4,12 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/loginbkgmoolah2"
+    android:background="@drawable/bgloginmoolah"
     tools:context=".LoginActivity">
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="373dp"
         android:layout_height="350dp"
-        android:outlineAmbientShadowColor="@color/black"
         android:background="@drawable/viewpager_bkg"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

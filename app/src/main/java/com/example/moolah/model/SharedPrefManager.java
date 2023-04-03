@@ -8,7 +8,7 @@ import com.example.moolah.LoginActivity;
 
 public class SharedPrefManager {
     //the constants
-    private static final String SHARED_PREF_NAME = "reqsmartsharedpref";
+    private static final String SHARED_PREF_NAME = "bookstoresharedpref";
     private static final String KEY_ID = "keyid";
     private static final String KEY_USERNAME = "keyusername";
     private static final String KEY_EMAIL = "keyemail";
